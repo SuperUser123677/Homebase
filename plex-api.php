@@ -1,10 +1,10 @@
 <?php
 
 // For example: http://localhost:32400
-define('PLEX_URL', 'http://localhost:32400');
+define('PLEX_URL', 'https://192.168.50.86:32400');
 
 // tautulli/settings#tab_tabs-plex_media_server
-define('PLEX_TOKEN', '');
+define('5b312e674eb5f5fbdeb733bb3f556e468cc2e7a1', '');
 
 $post = $_POST['postData'];
 
