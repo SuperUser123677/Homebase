@@ -1,10 +1,10 @@
 <?php
 
 // For example: http://localhost:8181
-define('TAUTULLI_URL', 'http://localhost:8181');
+define('TAUTULLI_URL', 'https://tautulli.securedserveraccess.com');
 
 // tautulli/settings#tab_tabs-web_interface
-define('TAUTULLI_TOKEN', '');
+define('13dbc8d1f049426cbbd3f76e176e7ce4', '');
 
 $post = $_POST['postData'];
 
